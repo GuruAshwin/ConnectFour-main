@@ -1,4 +1,4 @@
-Live site: https://jeanwll.github.io/ConnectFour/
+Live site: https://GuruAshwin.github.io/ConnectFour-main/
 
 ![](./screenshot1.png)
 
