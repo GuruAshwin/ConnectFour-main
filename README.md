@@ -155,6 +155,5 @@ Having the game work with a shareable link to play Online PVP could be interesti
 We could use the same submenu to select either "Local PVP" or "Online PVP".
 
 ## Author
-
-- Website - [Jean Will](https://jeanwill.me)
+-B Ashwin
 - Frontend Mentor - [@jeanwll](https://www.frontendmentor.io/profile/jeanwll)
